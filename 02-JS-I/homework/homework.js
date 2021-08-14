@@ -40,21 +40,29 @@ function suma(x, y) {
 }
 
 function resta(x, y) {
+     var resta = x- y;
+     return resta;
   // Resta "y" de "x" y devuelve el valor
   // Tu código:
 }
 
 function multiplica(x, y) {
+     var multiplicacion = x* y;
+     return multiplicacion;
   // Multiplica "x" por "y" y devuelve el valor
   // Tu código:
 }
 
 function divide(x, y) {
+     var divide = x/y;
+     return divide;
   // Divide "x" entre "y" y devuelve el valor
   // Tu código:
 }
 
 function sonIguales(x, y) {
+     var iguales = x ==  y;
+     return iguales;
   // Devuelve "true" si "x" e "y" son iguales
   // De lo contrario, devuelve "false"
   // Tu código:
