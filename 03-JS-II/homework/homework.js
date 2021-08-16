@@ -137,17 +137,9 @@ function fizzBuzz(numero) {
 }
 
 function operadoresLogicos(num1, num2, num3) {
-     if (num2 < num1 > num3 && num1 == "+" ){
-        return "Número 1 es mayor y positivo";
-     } if (num1 && num2 && num2 == "-" ){
-          return "Hay negativos";
-     } else if (num1 < num3 >num2 ){
-       for (var i = 0; i < 10; i++){
-           return i;
-      } }else if (num1 && num2 && num3 === 0){
-          return "Error ";
-        } 
-          return false;
+    
+      
+      
        
         
      
@@ -180,8 +172,7 @@ function esVerdadero(valor){
 }
 
 function tablaDelSeis(){
-    for (var i= 0 ; i<60; i++)
-       return i*6 ;
+    
   //Escribe una función que muestre la tabla de multiplicar del 6 (del 0 al 60).
   //La función devuelve un array con los resultados de la tabla de multiplicar del 6 en orden creciente.
   //Escribe tu código aquí   
@@ -201,12 +192,7 @@ function tieneTresDigitos(numero){
 }
 
 function doWhile(numero) {
-     i = 5;
-    do {
-      i = i + 1
-      numero = numero+1;
-    } while (i=i);
-     return numero;
+     
   //Implementar una función tal que vaya aumentando el valor recibido en 5 hasta un límite de 8 veces
   //Retornar el valor final.
   //Usar el bucle do ... while.
