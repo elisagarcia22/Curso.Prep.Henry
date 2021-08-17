@@ -207,7 +207,6 @@ function tieneTresDigitos(numero){
 }
 
 function doWhile(numero) {
-    let i =0 ;
    do{
       numero  =numero+40;
    }while (numero < 9);
