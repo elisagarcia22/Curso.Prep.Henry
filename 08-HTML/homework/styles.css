@@ -1,0 +1,24 @@
+
+                 h1{
+                     color: deeppink;
+                 }
+                 img{
+                     width: 400px;
+                 }
+                 #thirdDiv{
+                     height: 600px;
+                     width: 500px;
+                     background-color: dodgerblue;
+                 padding: 50px;
+                     border: 11px black solid;
+                 }
+                 #spanId{
+                     font-size: 18px;
+                     margin: 50px;
+                 }
+body{
+    background: url(https://steemitimages.com/p/4i88GgaV8qiFU89taP2MgKXzwntUGAvkoQiKU7VxyD37q97ZE6wKMp5sMLVajUtM4a4RVRm6GM3J25DVCRENsYjvE6nwqDsFKvvi5jZgFZwseZY2Kg9QFthzii?format=match&mode=fit&width=640);
+    background-size: cover;
+    font-family: sans-serif;
+}
+          
